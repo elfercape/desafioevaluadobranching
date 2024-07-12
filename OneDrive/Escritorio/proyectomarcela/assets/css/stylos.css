@@ -1,0 +1,18 @@
+body {
+    text-align: justify;
+    background-color: violet;
+
+
+}
+.h1 {
+    color: aqua;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: coral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
